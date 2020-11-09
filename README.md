@@ -1,3 +1,1 @@
-# Repository for Controlling Site
-# Includes Sites For:
-# A Dumb Space Game
+# A Dumb Space Game Inspired By Among Us
