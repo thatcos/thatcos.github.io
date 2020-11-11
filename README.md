@@ -1,1 +1,2 @@
-# A Dumb Space Game Inspired By Among Us
+# Repository for Github Pages
+Don't mind me, Im just the repository for (my site)[cosmowastaken.github.io]
