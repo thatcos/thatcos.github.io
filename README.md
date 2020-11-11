@@ -1,2 +1,1 @@
-# Repository for Github Pages
-Don't mind me, I'm just the repository for [my site](https://thatcos.github.io/)
+# A hidden role game similar to Among Us
